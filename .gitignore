@@ -1,0 +1,4 @@
+# Ignore Composer files
+/vendor/
+/composer.lock
+/composer.json
