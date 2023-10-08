@@ -7,15 +7,10 @@
  * Output: [2, 8, 6]
  */
 
+// ! Jangan ubah nama class 
 function cariBilanganGenap($array)
 {
-    $bilanganGenap = [];
-    foreach ($array as $bilangan) {
-        if ($bilangan % 2 == 0) {
-            $bilanganGenap[] = $bilangan;
-        }
-    }
-    return $bilanganGenap;
+    // Tulis kodemu disini
 }
 
 ?>

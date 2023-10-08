@@ -7,14 +7,10 @@
  * Output: 78
  */
 
+// ! Jangan ubah nama class 
 function hitungRataRata($nilai)
 {
-    $total = array_sum($nilai);
-    $jumlah = count($nilai);
-    if ($jumlah > 0) {
-        return round($total / $jumlah);
-    } else {
-        return 0;
-    }
+    // Tulis kodemu disini
 }
+
 ?>

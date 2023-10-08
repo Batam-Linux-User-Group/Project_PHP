@@ -7,13 +7,10 @@
  * Output: 10
  */
 
-function cariBilanganTerbesar($array) {
-    $terbesar = $array[0]; // Anggap elemen pertama sebagai terbesar awalnya
-    foreach ($array as $bilangan) {
-        if ($bilangan > $terbesar) {
-            $terbesar = $bilangan; // Jika bilangan lebih besar, perbarui nilai terbesar
-        }
-    }
-    return $terbesar;
+// ! Jangan ubah nama class 
+function cariBilanganTerbesar($array)
+{
+    // Tulis kodemu disini
 }
+
 ?>
